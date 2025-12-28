@@ -19,7 +19,7 @@
     - 데이터 분석 및 AI 기술에 대한 심도 있는 학습을 통해 실무 역량을 강화하였습니다.
     - LG PetRaum : 이동형 반려동물 공간 경험 제공 서비스 개발
     - LG Lifestyle Assistant : 개인 맞춤형 캘린더형 일상 관리 어시스턴트 서비스 개발
-    - [LG Travel Go](https://github.com/jjinzxx/Travelgo_itinerary) : AI 기반 여행 계획 및 실시간 AR 거리뷰 서비스 개발
+    - [LG Travel Go](https://github.com/jjinzxx/travel-go) : AI 기반 여행 계획 및 실시간 AR 거리뷰 서비스 개발
 
 - 2024.06 ~ 2024.09 : 광주광역시 인디게임 개발지원 사업 인디스타즈 9기 "HERESIS" 팀원으로 참여하였습니다.
     - Unity와 C#을 활용하여 3D 공포 탈출 게임 [HERESIS](https://github.com/shin0624/Studio_Chosun_Heresis) 개발에 기여하였습니다.
