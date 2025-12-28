@@ -22,7 +22,7 @@
     - DX Project([Travel Go](https://github.com/jjinzxx/Travelgo_itinerary)): AI 기반 여행 계획 및 추천 서비스 개발
 
 - 2024.06 ~ 2024.09 : 광주광역시 인디게임 개발지원 사업 인디스타즈 9기 "HERESIS" 팀원으로 참여하였습니다.
-    - Unity와 C#을 활용하여 3D 공포 탈출 게임 [![HERESIS](https://img.shields.io/badge/heresis-181717?style=for-the-badge)](https://github.com/shin0624/Studio_Chosun_Heresis) 개발에 기여하였습니다.
+    - Unity와 C#을 활용하여 3D 공포 탈출 게임 [HERESIS](https://github.com/shin0624/Studio_Chosun_Heresis) 개발에 기여하였습니다.
 
 - 2017.01 ~ 2022.11 : 광주 SBS 아카데미 컴퓨터학원에서 웹 개발 및 프로그래밍 관련 교육을 이수하였습니다.
     - C/C++, Java, Python 프로그래밍 교육
