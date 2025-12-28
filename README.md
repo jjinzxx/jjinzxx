@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20jjinzxx%20GitHub&section=header&animation=fadeIn)
 
 </div>
 
@@ -14,7 +14,7 @@
 ## 🛠️ Skill Set
 | Languages | Frontend | Backend & Database | Tools & Others |
 |------|------------|----------|------|
-| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
 <br>
 
@@ -23,11 +23,10 @@
     - 데이터 분석 및 AI 기술에 대한 심도 있는 학습을 통해 실무 역량을 강화하였습니다.
     - BX Project(PetRaum): 이동형 반려동물 공간 경험 제공 서비스 개발
     - CX Project(Lifestyle Assistant): 개인 맞춤형 일상 관리 어시스턴트 서비스 개발
-    - DX Project(Travel Go(https://github.com/jjinzxx/Travelgo_itinerary)): AI 기반 여행 계획 및 추천 서비스 개발
+    - DX Project([Travel Go](https://github.com/jjinzxx/Travelgo_itinerary)): AI 기반 여행 계획 및 추천 서비스 개발
 
 - 2024.06 ~ 2024.09 : 광주광역시 인디게임 개발지원 사업 인디스타즈 9기 "HERESIS" 팀원으로 참여하였습니다.
-    - Unity와 C#을 활용하여 3D 공포 탈출 게임 개발에 기여하였습니다.
-    - https://github.com/shin0624/Studio_Chosun_Heresis
+    - Unity와 C#을 활용하여 3D 공포 탈출 게임 [![HERESIS](https://img.shields.io/badge/heresis-181717?style=for-the-badge)](https://github.com/shin0624/Studio_Chosun_Heresis) 개발에 기여하였습니다.
 
 - 2017.01 ~ 2022.11 : 광주 SBS 아카데미 컴퓨터학원에서 웹 개발 및 프로그래밍 관련 교육을 이수하였습니다.
     - C/C++, Java, Python 프로그래밍 교육
