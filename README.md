@@ -15,7 +15,7 @@
 <br>
 
 ## 📚 Experience
-- 2025.06 ~ 2025.12 : "LG전자 DX School 3기" 수료하였습니다.
+- 2025.06 ~ 2025.12 : "LG전자 DX School 3기" '우수 수료생'으로 수료하였습니다.
     - 데이터 분석 및 AI 기술에 대한 심도 있는 학습을 통해 실무 역량을 강화하였습니다.
     - LG PetRaum : 이동형 반려동물 공간 경험 제공 서비스 개발
     - LG Lifestyle Assistant : 개인 맞춤형 캘린더형 일상 관리 어시스턴트 서비스 개발
@@ -42,13 +42,13 @@
 <br>
 
 ## 📫 Contact
+<div align="center">
+  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jjinzxx)
 [![Blog](https://img.shields.io/badge/Blog-04cf5c?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.naver.com/epspqm823)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjinzxx23@gmail.com)
+![Email](https://img.shields.io/badge/jjinzxx23@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 <br>
-
-<div align="center">
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
