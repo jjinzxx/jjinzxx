@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Banner -->
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=안녕하세요&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=80&fontColor=ffffff&desc=jjinzxx의%20GitHub%20입니다&section=header&animation=fadeIn)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=330&lines=Welcome+to+jjinzxx's+GitHub)](https://git.io/typing-svg)
 
 </div>
 <br>
@@ -78,7 +78,5 @@
 ![Email](https://img.shields.io/badge/Email-jjinzxx@gmail.com-EA4335?logo=gmail&logoColor=white)
 
 <br>
-  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
