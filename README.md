@@ -1,7 +1,9 @@
 <div align="center">
   
 <!-- Banner -->
+<br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=330&lines=Welcome+to+jjinzxx's+GitHub)](https://git.io/typing-svg)
+<br><br>
 
 </div>
 <br>
