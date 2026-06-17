@@ -22,7 +22,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat&logo=css&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) 
-![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 <br>
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white) 
@@ -38,9 +37,9 @@
 
 </div>
 
-- 2026.04 ~ 2026.10 : 광주정보문화산업진흥원 "GCC사관학교 3기" 언리얼엔진 기반 게임콘텐츠 제작과정 진행중입니다.
+- 2026.04 ~ 2026.07 : 광주정보문화산업진흥원 "GCC사관학교 3기" 언리얼엔진 기반 게임콘텐츠 제작과정 진행중입니다.
     - Unreal Engine 5와 C++를 활용한 실무 중심의 게임 개발 역량 강화 및 핵심 기술 학습
-    - 팀 프로젝트를 통한 대규모 게임 에셋 관리 및 협업 워크플로우 경험
+    - [ShowDown](https://github.com/jjinzxx/showdown) : 4인 팀프로젝트, 인디언포커 기반 블러핑 베팅게임.
     - [LastRefuge](https://github.com/jjinzxx/LastRefuge) : 포스트아포칼립스 세계관에서의 익스트랙션 슈팅게임
 
 - 2025.06 ~ 2025.12 : "LG전자 DX School 3기" '우수 수료생'으로 수료하였습니다.
