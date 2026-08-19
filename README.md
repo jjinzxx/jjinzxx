@@ -79,7 +79,7 @@
 ## 📫 Contact
 [![GitHub](https://img.shields.io/badge/GitHub-jjinzxx-181717?logo=github&logoColor=white)](https://github.com/jjinzxx)
 [![Blog](https://img.shields.io/badge/Blog-epspqm823-03C75A?logo=blogger&logoColor=white)](https://blog.naver.com/epspqm823)
-![Email](https://img.shields.io/badge/Email-jjinzxx@gmail.com-EA4335?logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/Email-jjinzxx23@gmail.com-EA4335?logo=gmail&logoColor=white)
 
 <br>
 
