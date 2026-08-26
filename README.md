@@ -36,7 +36,8 @@
 ## 📚 Experience
 
 </div>
-
+- 2026.08 ~ 2026.10 : "36Litters" Corrupted Remaster 작업에 참여하였습니다.
+    - [Corrupted: Dawn of Havoc](https://store.steampowered.com/app/2007770/Corrupted_Dawn_of_Havoc/) : 하드코어 오토배틀러 로그라이크 덱빌딩 (H.A.R.D) 게임
 
 - 2026.04 ~ 2026.07 : "GCC사관학교 3기 언리얼엔진 기반 게임콘텐츠과정" '우수 수료생'으로 수료하였습니다.
     - Unreal Engine 5와 C++를 활용한 실무 중심의 게임 개발 역량 강화 및 핵심 기술 학습
