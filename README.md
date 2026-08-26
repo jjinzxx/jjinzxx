@@ -36,6 +36,7 @@
 ## 📚 Experience
 
 </div>
+
 - 2026.08 ~ 2026.10 : "36Litters" Corrupted Remaster 작업에 참여하였습니다.
     - [Corrupted: Dawn of Havoc](https://store.steampowered.com/app/2007770/Corrupted_Dawn_of_Havoc/) : 하드코어 오토배틀러 로그라이크 덱빌딩 (H.A.R.D) 게임
 
